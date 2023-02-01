@@ -14,4 +14,4 @@ RUN pip install -r requirements.txt
 COPY . .
 
 # Define the command to run the program
-CMD ["python", "main.py"]
+CMD ["python3", "comp_intrest.py"]
